@@ -1,3 +1,5 @@
+This project has a user-friendly interface where people describe their fitness issues. Behind the scenes, a smart computer system talks to users, figures out their problems, and suggests exercises using a special tool from OpenAI. It's like having a helpful fitness buddy that learns and gives personalized advice.
+
 # Exercise-Helper
 
 
