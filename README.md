@@ -16,6 +16,15 @@ https://github.com/anuragdw710/Exercise-Helper/assets/78266752/58c0ec65-8396-472
 calls the API call to open-ai with the text and describes the return of the training exercise solutions.
 
 
+## Technologies Used
+
+- React.js
+- CSS
+- Node.js
+- OpenAI API
+
+
+
 ## Getting Started
 
 ### Prerequisites
@@ -33,11 +42,3 @@ calls the API call to open-ai with the text and describes the return of the trai
 
 1. Start the application: `npm start`
 2. Access the platform through your web browser: `http://localhost:3000`
-
-## Technologies Used
-
-- React.js
-- CSS
-- Node.js
-- OpenAI API
-- Axios
